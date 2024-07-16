@@ -1,6 +1,6 @@
 package Arrays;
 
-public class SortColors {
+public class Sort_Colors {
     public void sortColors(int[] nums) {
         for (int i = 0; i < nums.length; i++) {
             for (int j = 0; j < nums.length - i - 1; j++) {

@@ -2,7 +2,7 @@ package Arrays;
 
 import java.util.*;
 
-public class FindtheDuplicateNumber {
+public class Find_The_Duplicate_Number {
     // Solution on leetcode
     public int findDuplicate(int[] nums) {
         HashSet<Integer> set = new HashSet<>();
