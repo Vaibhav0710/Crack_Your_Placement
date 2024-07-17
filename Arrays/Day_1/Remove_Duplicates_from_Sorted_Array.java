@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.Day_1;
 
 public class Remove_Duplicates_from_Sorted_Array {
     public int removeDuplicates(int[] arr) {

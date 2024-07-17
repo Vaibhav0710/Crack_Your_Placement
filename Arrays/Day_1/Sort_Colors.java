@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.Day_1;
 
 public class Sort_Colors {
     public void sortColors(int[] nums) {

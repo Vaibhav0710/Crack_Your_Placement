@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.Day_1;
 
 public class Move_Zeroes {
     public void moveZeroes(int[] arr) {
