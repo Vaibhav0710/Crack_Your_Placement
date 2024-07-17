@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.Day_2;
 
 public class Two_Sum {
     public int[] twoSum(int[] nums, int target) {
