@@ -3,7 +3,9 @@ package Arrays.Day_3;
 import java.util.*;
 
 public class Find_All_Duplicates_in_an_Array {
+    @SuppressWarnings("unchecked")
     public List<Integer> findDuplicates(int[] nums) {
+        @SuppressWarnings("rawtypes")
         List result = new ArrayList<>();
         for (int n : nums) {
             n = Math.abs(n);
